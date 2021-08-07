@@ -37,11 +37,5 @@
 
 
 
-<p align="center">
-    <img src="../2Meng/img/github.png" width="200">
-    <img src="../2Meng/img/wechat.png" width="200">
-</p>
-
-
 
 
